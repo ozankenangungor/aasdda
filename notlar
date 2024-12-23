@@ -1,0 +1,4 @@
+//npx create-expo-stack@latest
+
+//npx expo install expo-haptics  //telefon titreşimi
+//npx expo install expo-clipboard  //kopyalama yapma
